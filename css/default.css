@@ -11,7 +11,7 @@ body{
 
 header{
   padding: 10px;
-  text-align: center;
+  text-align:center;
   background-color: red;
 }
 
@@ -28,7 +28,7 @@ aside{
 footer{
   padding: 10px;
   backgroud-color: blue;
-  text-align: center;
+  text-align:center;
 }
 
 @media screen and (min-width:641px){
