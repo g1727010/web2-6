@@ -28,7 +28,7 @@ aside{
 footer{
   padding: 10px;
   backgroud-color: blue;
-  text-align:center;
+  text-align: center;
 }
 
 @media screen and (min-width:641px){
